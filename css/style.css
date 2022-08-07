@@ -19,7 +19,7 @@ body {
 }
 
 .game__container {
-  margin-top: 100px;
+  margin-top: 50px;
   width: 940px;
   height: 640px;
   display: flex;
